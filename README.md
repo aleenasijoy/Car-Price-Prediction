@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-Car price prediction using Machine Learning
+Machine Learning Regression for Car Price Prediction
